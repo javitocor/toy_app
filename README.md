@@ -27,6 +27,14 @@ A microposts website
 # Getting Started
 - Add, update or delete users and its microposts following the links
 
+## Author
+
+👤 **Javier Oriol Correas Sanchez Cuesta**
+
+- Github: [@javitocor](https://github.com/javitocor)
+- Twitter: [@JavierCorreas4](https://twitter.com/JavierCorreas4)
+- Linkedin: [Javier Oriol Correas Sanchez Cuesta](https://www.linkedin.com/in/javier-correas-sanchez-cuesta-15289482/)
+
 # 🤝 Contributing
 Contributions, issues and feature requests are welcome! Start by:
 
